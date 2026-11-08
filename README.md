@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Conversational-Chatbot/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Conversational-Chatbot?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Conversational-Chatbot/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Conversational-Chatbot?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Conversational-Chatbot/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Conversational-Chatbot?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Conversational-Chatbot/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Conversational-Chatbot?style=flat-square&color=blue" alt="Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Conversational-Chatbot/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Conversational-Chatbot?style=flat-square&color=green" alt="License"/></a>
@@ -62,75 +62,75 @@ A transparent comparison of industry-leading commercial AI conversational chatbo
 
 ## 💻 Open-Source GitHub Projects & Frameworks
 
-Ranked by **GitHub Star Counts** (descending) with live badges linking to each repository's stargazers page:
+Ranked by **GitHub Stars_Counts** (descending) with live badges linking to each repository's stargazers page:
 
-### 1. [Ollama](https://github.com/ollama/ollama) [![GitHub Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) 🦙
+### 1. [Ollama](https://github.com/ollama/ollama) [![GitHub_Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) 🦙
 - **Category**: Local LLM Runner & Inference Server
 - **Tech Stack**: Go, C/C++
 - **Overview**: Get up and running with Llama 3, Mistral, Gemma, and custom models locally. Serves as the premier privacy-first inference engine backing self-hosted conversational AI pipelines.
 - **Best For**: Developers seeking zero-data-leakage local execution for offline or private chatbot deployments.
 
-### 2. [Dify](https://github.com/langgenius/dify) [![GitHub Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) 🚀
+### 2. [Dify](https://github.com/langgenius/dify) [![GitHub_Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) 🚀
 - **Category**: LLM Application & Conversational Agent Platform
 - **Tech Stack**: Python, TypeScript, Next.js
 - **Overview**: An open-source LLM app development platform combining AI workflow orchestration, Agent capabilities, RAG pipelines, and conversational interfaces with out-of-the-box observability.
 - **Best For**: Teams needing a full-stack, enterprise-grade chatbot builder with visual prompt engineering, RAG, and multi-model routing.
 
-### 3. [Langflow](https://github.com/langflow-ai/langflow) [![GitHub Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers) 🌊
+### 3. [Langflow](https://github.com/langflow-ai/langflow) [![GitHub_Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers) 🌊
 - **Category**: Visual Flow Builder for Multi-Agent & Chatbot Systems
 - **Tech Stack**: Python, React
 - **Overview**: A dynamic visual framework where you can drag-and-drop components to assemble LangChain-based conversational workflows, memory stores, and API tools effortlessly.
 - **Best For**: Rapid prototyping and visual construction of complex, multi-step LLM conversational pipelines.
 
-### 4. [Flowise](https://github.com/FlowiseAI/Flowise) [![GitHub Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers) 🔌
+### 4. [Flowise](https://github.com/FlowiseAI/Flowise) [![GitHub_Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers) 🔌
 - **Category**: Low-Code UI for LLM Apps & Conversational Agents
 - **Tech Stack**: TypeScript, Node.js, React
 - **Overview**: Drag-and-drop UI tool designed to build customized LLM flows, conversational agents, and interactive chat widgets deployable via embeds and REST APIs.
 - **Best For**: Embedding custom AI chatbots into websites without writing boilerplate backend code.
 
-### 5. [Chatwoot](https://github.com/chatwoot/chatwoot) [![GitHub Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) 💬
+### 5. [Chatwoot](https://github.com/chatwoot/chatwoot) [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) 💬
 - **Category**: Open-Source Customer Engagement Suite & Omnichannel Helpdesk
 - **Tech Stack**: Ruby on Rails, Vue.js
 - **Overview**: Open-source alternative to Intercom, Zendesk, and Drift. Connects WhatsApp, Twitter, Email, and Web Chat into a unified inbox with native bot integrations and AI assistance.
 - **Best For**: Support teams seeking self-hosted customer messaging with seamless human handoff from automated chatbots.
 
-### 6. [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) [![GitHub Stars](https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat?style=social&color=white)](https://github.com/chatchat-space/Langchain-Chatchat/stargazers) 📚
+### 6. [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) [![GitHub_Stars](https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat?style=social&color=white)](https://github.com/chatchat-space/Langchain-Chatchat/stargazers) 📚
 - **Category**: Local Knowledge Base & RAG Conversational Assistant
 - **Tech Stack**: Python, LangChain, Milvus/FAISS
 - **Overview**: Enterprise-oriented offline RAG chatbot solution supporting document ingestion (PDF, Word, Markdown) and multi-model local inferences.
 - **Best For**: Internal enterprise document question-answering with complete data residency.
 
-### 7. [Haystack](https://github.com/deepset-ai/haystack) [![GitHub Stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers) 🌾
+### 7. [Haystack](https://github.com/deepset-ai/haystack) [![GitHub_Stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers) 🌾
 - **Category**: End-to-End LLM Orchestration & Search Pipeline Framework
 - **Tech Stack**: Python
 - **Overview**: Production-ready Python framework for building custom RAG, neural search, and conversational AI agents with flexible modular components.
 - **Best For**: Engineering teams building high-throughput production search and conversational retrieval architectures.
 
-### 8. [Rasa](https://github.com/RasaHQ/rasa) [![GitHub Stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers) 🧠
+### 8. [Rasa](https://github.com/RasaHQ/rasa) [![GitHub_Stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers) 🧠
 - **Category**: Conversational AI Engine for Enterprise Dialogue Management
 - **Tech Stack**: Python, TensorFlow/PyTorch
 - **Overview**: Industry-standard open-source conversational AI framework with CALM (Conversational AI with Language Models), intent classification, dialogue policies, and compliance readiness.
 - **Best For**: Large-scale enterprise systems requiring deterministic guardrails, structured conversational flows, and hybrid NLU/LLM setups.
 
-### 9. [Pipecat](https://github.com/pipecat-ai/pipecat) [![GitHub Stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social&color=white)](https://github.com/pipecat-ai/pipecat/stargazers) 🎙️
+### 9. [Pipecat](https://github.com/pipecat-ai/pipecat) [![GitHub_Stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social&color=white)](https://github.com/pipecat-ai/pipecat/stargazers) 🎙️
 - **Category**: Real-Time Voice & Multimodal Conversational Agent Framework
 - **Tech Stack**: Python, WebRTC
 - **Overview**: The most complete open-source framework for building ultra-low-latency real-time voice and multimodal AI agents. Pluggable with 20+ STT engines, 25+ LLMs, and 30+ TTS voices.
 - **Best For**: Real-time voice assistants, phone agents, and multimodal conversational interfaces requiring WebRTC speed.
 
-### 10. [Botpress](https://github.com/botpress/botpress) [![GitHub Stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers) 🛠️
+### 10. [Botpress](https://github.com/botpress/botpress) [![GitHub_Stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers) 🛠️
 - **Category**: Developer Chatbot Engine & Visual Flow Studio
 - **Tech Stack**: TypeScript, Node.js
 - **Overview**: Developer-centric conversational platform featuring visual dialogue flows, NLU pipelines, and pre-built channel connectors for enterprise bots.
 - **Best For**: Developers needing granular control over dialogue states, custom actions, and channel integrations.
 
-### 11. [Apache Burr](https://github.com/dagworks-inc/burr) [![GitHub Stars](https://img.shields.io/github/stars/dagworks-inc/burr?style=social&color=white)](https://github.com/dagworks-inc/burr/stargazers) ⚙️
+### 11. [Apache Burr](https://github.com/dagworks-inc/burr) [![GitHub_Stars](https://img.shields.io/github/stars/dagworks-inc/burr?style=social&color=white)](https://github.com/dagworks-inc/burr/stargazers) ⚙️
 - **Category**: State-Machine Framework for Stateful LLM Applications
 - **Tech Stack**: Python
 - **Overview**: Expresses chatbot interactions and multi-step agent decisions as rigorous state machines, complete with built-in real-time tracing, telemetry UI, and state persistence.
 - **Best For**: Complex conversational systems requiring full auditability, rollback, and deterministic multi-turn state tracking.
 
-### 12. [Owly](https://github.com/Hesper-Labs/owly) [![GitHub Stars](https://img.shields.io/github/stars/Hesper-Labs/owly?style=social&color=white)](https://github.com/Hesper-Labs/owly/stargazers) 🦉
+### 12. [Owly](https://github.com/Hesper-Labs/owly) [![GitHub_Stars](https://img.shields.io/github/stars/Hesper-Labs/owly?style=social&color=white)](https://github.com/Hesper-Labs/owly/stargazers) 🦉
 - **Category**: Self-Hosted Multichannel AI Customer Support Agent
 - **Tech Stack**: Next.js 14, TypeScript, PostgreSQL, Prisma, Docker
 - **Overview**: Autonomous customer service agent supporting WhatsApp (QR login), Email (IMAP/SMTP), and Phone (Twilio + Whisper + ElevenLabs) with a unified admin inbox and ticketing dashboard.
