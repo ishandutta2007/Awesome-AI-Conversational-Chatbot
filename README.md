@@ -32,77 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global conversational AI and chatbot market is estimated at approximately **$15B–$20B (projected to surpass $75B–$100B by the mid-2030s at a ~20–24% CAGR)**. The sector displays a **moderately fragmented ecosystem**—broadly fragmented across thousands of specialized vertical and workflow-specific solutions, but undergoing selective consolidation around enterprise platform leaders and foundational cloud ecosystems rather than a winner-take-all monopoly.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **Intercom Fin**
-
-  **AI-first customer service platform** with Fin AI Agent. **Pricing**: **Essential from $0.99/seat/month** (annual) plus **Fin at $0.99 per outcome** (minimum monthly commitment applies); **Advanced $85/seat/month**; **Expert $132/seat/month**; **Copilot add-on $29/agent/month**; **Pro add-on $100/month** . **Free tier**: No permanent free tier; trial available. **Best for**: teams wanting AI resolution priced per outcome—**trade-off**: seat + per-outcome costs stack; Fin requires minimum commitment .
-
-
-
-- **Ada**
-
-  **Agentic customer experience** platform with action-taking AI agents. **Pricing**: **AWS Marketplace entry at $33,000/year for 60,000 conversations**; Capterra/GetApp list starting at **$60,000 annually** . **Free tier**: **No free plan, no free trial** . **Best for**: enterprises wanting deep system integrations for end-to-end resolution—**trade-off**: high entry price; implementation adds $15,000–$100,000+ .
-
-
-
-- **Forethought**
-
-  **Agentic AI for customer support** with Solve, Assist, and Triage. **Pricing**: **Quote-only**; model blends platform access fees with **outcome-based pricing**; **Proof of Value (POV) instead of free trial** . **Free tier**: POV only. **Best for**: teams with substantial ticket volume wanting resolution automation—**trade-off**: no self-serve evaluation; sales-led process .
-
-
-
-- **Freshworks Freddy AI**
-
-  **AI agent within Freshchat**. **Pricing**: **Growth $19/agent/month** (annual) includes **Freddy AI Agent at $49 per 100 sessions**; **Pro $49/agent/month** adds **Freddy AI Copilot $29/agent/month**; **Enterprise $79/agent/month** . **Free tier**: Free plan up to 10 agents; 14-day Enterprise trial . **Best for**: SMBs wanting AI chatbot at accessible per-session pricing—**trade-off**: Freddy AI sessions are metered separately from seats .
-
-
-
-- **Drift**
-
-  **AI chat and sales engagement** platform. **Pricing**: **Free** (10 queries/month); **Pro $29.99/month** (unlimited queries); **Standard $9.99/month** (50 queries); Enterprise custom . **Free tier**: Yes, 10 queries/month. **Best for**: teams wanting quick AI chat with a usable free tier—**trade-off**: query limits on free/standard; Pro subject to fair use .
-
-
-
-- **Zendesk AI**
-
-  **AI agents and chatbot** within Zendesk support suite. **Pricing**: **AI agents available on all Suite plans**; **automated resolutions included** (5–15 per agent/month depending on plan); overages billed; legacy Answer Bot pricing retired . **Free tier**: No free plan; trial available. **Best for**: Zendesk customers wanting AI resolution integrated with their helpdesk—**trade-off**: resolution allocations vary by tier; overages apply .
-
-
-
-- **Tidio Lyro**
-
-  **Live chat and chatbot** for SMBs with Lyro AI. **Pricing**: **Free tier** available; paid packages separate **Lyro AI Agent** from **Help Desk**—pricing scales by billable conversations and Lyro conversations . **Free tier**: Yes, limited. **Best for**: small businesses wanting accessible chat automation with flexible packaging—**trade-off**: AI and helpdesk are separately purchasable .
-
-
-
-- **LivePerson**
-
-  **Conversational AI and messaging** for enterprise. **Pricing**: **Bronze/Silver/Gold tiers**; quote-only; **SMS/WhatsApp channel fees plus 15% handling fee** . **Free tier**: None. **Best for**: large enterprises wanting messaging-first engagement—**trade-off**: channel costs stack with handling fees .
-
-
-
-- **Landbot**
-
-  **No-code chatbot builder** for web and WhatsApp. **Pricing**: **Free $0** (100 chats/month, no AI); **Starter $36/month** (500 chats, 100 AI chats); **Professional $88/month** (2,500 chats, 300 AI chats); **Business** custom . **Free tier**: Yes, 100 chats/month. **Best for**: teams wanting visual chatbot building without coding—**trade-off**: AI chats metered separately; WhatsApp adds cost .
-
-
-
-- **Kustomer AI**
-
-  **CX platform with AI agents** and orchestration. **Pricing**: **Quote-only**; annual contract; AI add-ons priced separately; voice/WhatsApp pay-as-you-go . **Free tier**: None. **Best for**: enterprises wanting unified CX with AI—**trade-off**: no public pricing; configuration may require implementation fees .
+| Company / Product | Company Size (Valuation / Revenue) | Starting Pricing (Specific Tiers) | Free Tier & Trial Limits | Description & Trade-offs |
+|---|---|---|---|---|
+| **Zendesk AI** | **$10.2B valuation** (~$2B ARR) | **$55/agent/month** (billed annually for Suite Team; includes 5 automated resolutions/agent/month; legacy Support Team from $19/agent/month without omnichannel/chat) | **14-day free trial** with full access to Zendesk Suite Professional features (no credit card required; eligible for one 14-day extension). No permanent free plan. | AI agents and omnichannel customer support integrated with full ticketing helpdesk. *Trade-off: Resolution allocations capped per plan; overages billed separately.* |
+| **Freshworks Freddy AI** | **$4.5B market cap** (~$800M+ ARR) | **$19/agent/month** (billed annually for Freshchat Growth; Freddy AI Agent add-on at $49 per 100 sessions; Freddy Copilot at $29/agent/month) | **Permanent free plan** up to 10 human agents ($0/month, web chat only; AI sessions require paid add-on packs). Also offers a **14-day free trial** of Enterprise tier. | Omnichannel conversational AI and support agent inside Freshchat suite. *Trade-off: Freddy AI sessions are metered separately from agent seats.* |
+| **Intercom Fin** | **$1.28B valuation** (~$350M+ ARR) | **$29/seat/month** (billed annually for Essential plan, promotional from $19/seat/month) + **$0.99 per resolution/outcome** for Fin AI Agent | **14-day free trial** with complete access to chosen plan features including Fin AI Agent (no credit card required; optional 7-day extension for qualifying accounts). No permanent free tier. | AI-first customer service platform designed around autonomous resolution agents. *Trade-off: Seat subscriptions stack on top of outcome-based resolution charges.* |
+| **Ada** | **$1.2B valuation** (~$70M+ ARR) | **$33,000/year** (AWS Marketplace entry for up to 60,000 conversations; standard enterprise contracts start at $60,000/year) | **No free plan, no free trial**; access is strictly demo-driven with custom enterprise scoping and Proof of Value (POV). | Action-taking agentic customer experience platform with deep multi-system enterprise integrations. *Trade-off: High entry price point; onboarding and implementation adds $15,000–$100,000+.* |
+| **Drift** | **$1.0B valuation** (~$120M ARR) | **$2,500/month** (billed annually as $30,000/year minimum commitment for Premium tier; Advanced & Enterprise tiers custom quoted) | **No free plan, no free trial**; platform access requires sales consultation and demo. | Conversational marketing and B2B sales engagement chatbot platform. *Trade-off: High annual minimum spend; contracts require sales consultation.* |
+| **Kustomer AI** | **$1.0B valuation** (~$35M+ ARR) | **$89/user/month** (billed annually for Enterprise plan; minimum 8 seats / $8,544/year baseline; Ultimate plan at $139/user/month; AI agents & voice billed as add-ons) | **No free plan, no self-serve free trial**; evaluation requires a scheduled live demo and custom sales-approved pilot. | Unified omnichannel CRM and customer service platform with conversational AI orchestration. *Trade-off: Strict 8-seat minimum commitment and no self-serve setup.* |
+| **LivePerson** | **$300M+ valuation** (~$244M annual revenue) | **Custom quote starting at ~$5,000/month** (procurement data indicates median entry contracts around $60,945/year; SMS/WhatsApp carrier fees + 15% handling fee) | **No free plan, no self-serve free trial**; evaluation requires a guided sales demo and managed Proof of Concept (PoC). | Enterprise conversational AI and messaging engine across digital channels and SMS. *Trade-off: Substantial enterprise commitment; messaging carrier fees incur a 15% handling surcharge.* |
+| **Tidio Lyro** | **~$150M valuation** (~$40M ARR) | **$24.17/month** (billed annually for Starter plan; Lyro AI Agent plans start at $32.50/month for 50 AI conversations; billed separately) | **Permanent free plan** for up to 10 agents, 50 human conversations/month, 100 flow visitors, and a one-time lifetime quota of 50 Lyro AI conversations. Also offers a **7-day free trial** of paid tiers. | Accessible live chat and customer service automation with the Lyro AI agent for SMBs. *Trade-off: Help desk capabilities and Lyro AI conversation quotas are packaged separately.* |
+| **Forethought** | **~$90M venture-backed** (~$60M annual revenue) | **Custom quote starting at ~$2,900/month** (procurement data indicates entry annual contracts between $35,000 and $150,000/year based on ticket volume) | **No self-serve free trial and no free plan**; offers an enterprise Proof of Value (POV) sandbox on historical ticket data during sales cycles. | Generative AI customer support automation with Solve (autonomous resolution), Assist (copilot), and Triage. *Trade-off: Requires sales-led POV and volume contract negotiation.* |
+| **Landbot** | **~$25M valuation** (~$5.2M ARR) | **$36/month** (billed annually for Starter plan with 500 chats and 100 AI chats; Professional at $88/month with 2,500 chats and 300 AI chats) | **Permanent free plan (Sandbox)** with 100 chats/month and 1 user seat (web channels only, no AI). Also offers an unrestricted **14-day free trial** of premium features. | Visual no-code chatbot builder for interactive web experiences and WhatsApp automations. *Trade-off: AI-powered chats are strictly metered; WhatsApp API adds third-party messaging costs.* |
 
 
 
