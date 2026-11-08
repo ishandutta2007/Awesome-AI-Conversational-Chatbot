@@ -1,52 +1,53 @@
-# Awesome-AI-Conversational-Chatbot
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome AI Conversational Chatbot Banner" width="100%" />
+</p>
 
-# Awesome-AI-Conversational-Chatbot
+# 🤖 Awesome AI Conversational Chatbot
 
-**Top AI Conversational Chatbot (Opensource) 🌟 Star if you like it! 🌟**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Conversational-Chatbot/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Conversational-Chatbot?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Conversational-Chatbot/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Conversational-Chatbot?style=social" alt="GitHub Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Conversational-Chatbot/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Conversational-Chatbot?style=flat-square&color=blue" alt="Issues"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Conversational-Chatbot/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Conversational-Chatbot?style=flat-square&color=green" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+> 🌟 **The definitive curated list of AI Conversational Chatbots, Autonomous Customer Support Agents, Real-Time Voice Frameworks, Visual Flow Builders, and Self-Hosted LLM Platforms.** 🌟
+>
+> Updated monthly with transparent pricing, free-tier limits, company valuation data, and open-source star metrics.
 
+---
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+## 📌 Table of Contents
 
-*Focused on AI Agents, Visual Flow Builders, Multi-Channel Support & Self-Hosted Chatbot Frameworks*
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 Enterprise SaaS & Hosted Platforms](#-enterprise-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects & Frameworks](#-open-source-github-projects--frameworks)
+- [📈 Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚖️ Disclaimer & Guidance](#️-disclaimer--guidance)
 
-**Last updated: November 2026**
+---
 
+## 📊 Sector Overview & Market Dynamics
 
+The global **conversational AI and autonomous chatbot market** is valued at approximately **$15B–$20B in 2026** and projected to surge past **$75B–$100B by the mid-2030s (at a ~20%–24% CAGR)**.
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Conversational Chatbots**. These tools enable teams to build, deploy, and manage chatbots that resolve customer questions, qualify leads, and hand off to humans—from fully managed platforms with outcome-based AI pricing to open-source frameworks that give organizations complete control over their conversation data and LLM choice.
+- **Market Structure**: The sector exhibits a **moderately fragmented ecosystem** rather than a winner-take-all monopoly.
+- **Selective Consolidation vs. Domain Specialization**: Foundational hyperscalers (Google, Microsoft, AWS) and large enterprise platforms (Zendesk, Freshworks) command infrastructure and broad enterprise helpdesks. Simultaneously, hundreds of fast-moving companies thrive in specialized niches: real-time low-latency voice, complex visual state machines, multichannel messaging (WhatsApp/SMS), and self-hosted privacy-first deployments.
 
+---
 
+## 🏢 Enterprise SaaS & Hosted Platforms
 
-**Examples** include Intercom Fin, Ada, Forethought, Freshworks Freddy, Drift, Zendesk AI, Tidio, LivePerson, Landbot, and Kustomer AI (the category leaders in commercial space).
-
-
-
-**Open-source emphasis**: This section is expanded with every relevant project for self-hosted chatbots, support agents, and open conversational AI. **Critical note**: The open-source landscape is genuinely viable—**Pipecat** is the most complete real-time voice and multimodal agent framework, with pluggable services across every major AI vendor , **Owly** provides a self-hosted, multi-channel customer support agent with WhatsApp, email, and phone support , and **Apache Burr** offers a state-machine approach to building stateful chatbots with a built-in telemetry UI . No open-source project matches Intercom Fin's resolution learning loop or Ada's enterprise integrations, but for core chatbot functionality, the options are production-capable.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global conversational AI and chatbot market is estimated at approximately **$15B–$20B (projected to surpass $75B–$100B by the mid-2030s at a ~20–24% CAGR)**. The sector displays a **moderately fragmented ecosystem**—broadly fragmented across thousands of specialized vertical and workflow-specific solutions, but undergoing selective consolidation around enterprise platform leaders and foundational cloud ecosystems rather than a winner-take-all monopoly.
-
-## SaaS/Hosted Platforms
+A transparent comparison of industry-leading commercial AI conversational chatbot platforms, ordered by company valuation / ARR (descending):
 
 | Company / Product | Company Size (Valuation / Revenue) | Starting Pricing (Specific Tiers) | Free Tier & Trial Limits | Description & Trade-offs |
 |---|---|---|---|---|
-| **Zendesk AI** | **$10.2B valuation** (~$2B ARR) | **$55/agent/month** (billed annually for Suite Team; includes 5 automated resolutions/agent/month; legacy Support Team from $19/agent/month without omnichannel/chat) | **14-day free trial** with full access to Zendesk Suite Professional features (no credit card required; eligible for one 14-day extension). No permanent free plan. | AI agents and omnichannel customer support integrated with full ticketing helpdesk. *Trade-off: Resolution allocations capped per plan; overages billed separately.* |
+| **Zendesk AI** | **$10.2B valuation** (~$2B ARR) | **$55/agent/month** (billed annually for Suite Team; includes 5 automated resolutions/agent/month; legacy Support Team from $19/agent/month without omnichannel/chat) | **14-day free trial** with full access to Zendesk Suite Professional features (no credit card required; eligible for one 14-day extension). No permanent free plan. | Enterprise omnichannel customer support suite integrating AI agents, live chat, and ticketing. *Trade-off: Resolution allocations capped per plan; overages billed separately.* |
 | **Freshworks Freddy AI** | **$4.5B market cap** (~$800M+ ARR) | **$19/agent/month** (billed annually for Freshchat Growth; Freddy AI Agent add-on at $49 per 100 sessions; Freddy Copilot at $29/agent/month) | **Permanent free plan** up to 10 human agents ($0/month, web chat only; AI sessions require paid add-on packs). Also offers a **14-day free trial** of Enterprise tier. | Omnichannel conversational AI and support agent inside Freshchat suite. *Trade-off: Freddy AI sessions are metered separately from agent seats.* |
 | **Intercom Fin** | **$1.28B valuation** (~$350M+ ARR) | **$29/seat/month** (billed annually for Essential plan, promotional from $19/seat/month) + **$0.99 per resolution/outcome** for Fin AI Agent | **14-day free trial** with complete access to chosen plan features including Fin AI Agent (no credit card required; optional 7-day extension for qualifying accounts). No permanent free tier. | AI-first customer service platform designed around autonomous resolution agents. *Trade-off: Seat subscriptions stack on top of outcome-based resolution charges.* |
 | **Ada** | **$1.2B valuation** (~$70M+ ARR) | **$33,000/year** (AWS Marketplace entry for up to 60,000 conversations; standard enterprise contracts start at $60,000/year) | **No free plan, no free trial**; access is strictly demo-driven with custom enterprise scoping and Proof of Value (POV). | Action-taking agentic customer experience platform with deep multi-system enterprise integrations. *Trade-off: High entry price point; onboarding and implementation adds $15,000–$100,000+.* |
@@ -57,98 +58,125 @@ The global conversational AI and chatbot market is estimated at approximately **
 | **Forethought** | **~$90M venture-backed** (~$60M annual revenue) | **Custom quote starting at ~$2,900/month** (procurement data indicates entry annual contracts between $35,000 and $150,000/year based on ticket volume) | **No self-serve free trial and no free plan**; offers an enterprise Proof of Value (POV) sandbox on historical ticket data during sales cycles. | Generative AI customer support automation with Solve (autonomous resolution), Assist (copilot), and Triage. *Trade-off: Requires sales-led POV and volume contract negotiation.* |
 | **Landbot** | **~$25M valuation** (~$5.2M ARR) | **$36/month** (billed annually for Starter plan with 500 chats and 100 AI chats; Professional at $88/month with 2,500 chats and 300 AI chats) | **Permanent free plan (Sandbox)** with 100 chats/month and 1 user seat (web channels only, no AI). Also offers an unrestricted **14-day free trial** of premium features. | Visual no-code chatbot builder for interactive web experiences and WhatsApp automations. *Trade-off: AI-powered chats are strictly metered; WhatsApp API adds third-party messaging costs.* |
 
+---
 
+## 💻 Open-Source GitHub Projects & Frameworks
 
-## Open-Source GitHub Projects
+Ranked by **GitHub Star Counts** (descending) with live badges linking to each repository's stargazers page:
 
+### 1. [Ollama](https://github.com/ollama/ollama) [![GitHub Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) 🦙
+- **Category**: Local LLM Runner & Inference Server
+- **Tech Stack**: Go, C/C++
+- **Overview**: Get up and running with Llama 3, Mistral, Gemma, and custom models locally. Serves as the premier privacy-first inference engine backing self-hosted conversational AI pipelines.
+- **Best For**: Developers seeking zero-data-leakage local execution for offline or private chatbot deployments.
 
+### 2. [Dify](https://github.com/langgenius/dify) [![GitHub Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) 🚀
+- **Category**: LLM Application & Conversational Agent Platform
+- **Tech Stack**: Python, TypeScript, Next.js
+- **Overview**: An open-source LLM app development platform combining AI workflow orchestration, Agent capabilities, RAG pipelines, and conversational interfaces with out-of-the-box observability.
+- **Best For**: Teams needing a full-stack, enterprise-grade chatbot builder with visual prompt engineering, RAG, and multi-model routing.
 
-- **Pipecat**
+### 3. [Langflow](https://github.com/langflow-ai/langflow) [![GitHub Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers) 🌊
+- **Category**: Visual Flow Builder for Multi-Agent & Chatbot Systems
+- **Tech Stack**: Python, React
+- **Overview**: A dynamic visual framework where you can drag-and-drop components to assemble LangChain-based conversational workflows, memory stores, and API tools effortlessly.
+- **Best For**: Rapid prototyping and visual construction of complex, multi-step LLM conversational pipelines.
 
-  **Real-time voice and multimodal AI agent framework** (open source) — **the most complete open-source framework for building conversational AI**, with pluggable services across every major AI vendor . **Features**: **Voice-first**—integrates speech recognition, TTS, and conversation handling; **pluggable**—supports 20+ STT providers, 25+ LLMs, 30+ TTS services, and multiple transports (WebRTC, WebSocket, WhatsApp); **multi-agent ready**—compose agents with handoff, parallel fan-out, or sidecar workers; **real-time**—ultra-low latency with WebRTC; **Pipecat Flows** for structured conversations with state management; **CLI** for scaffolding and deployment . **Tech stack**: Python. **Deploy**: Self-hosted (`uv tool install "pipecat-ai[cli]"`; `pipecat init`) or Pipecat Cloud . **Trade-off**: **Voice-first focus**—text-only chatbots require adapting the pipeline; requires Python expertise and API keys for AI services. **Best for**: developers building voice assistants, multi-agent systems, or multimodal conversational interfaces—especially those wanting vendor flexibility across STT, LLM, and TTS providers .
+### 4. [Flowise](https://github.com/FlowiseAI/Flowise) [![GitHub Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers) 🔌
+- **Category**: Low-Code UI for LLM Apps & Conversational Agents
+- **Tech Stack**: TypeScript, Node.js, React
+- **Overview**: Drag-and-drop UI tool designed to build customized LLM flows, conversational agents, and interactive chat widgets deployable via embeds and REST APIs.
+- **Best For**: Embedding custom AI chatbots into websites without writing boilerplate backend code.
 
+### 5. [Chatwoot](https://github.com/chatwoot/chatwoot) [![GitHub Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) 💬
+- **Category**: Open-Source Customer Engagement Suite & Omnichannel Helpdesk
+- **Tech Stack**: Ruby on Rails, Vue.js
+- **Overview**: Open-source alternative to Intercom, Zendesk, and Drift. Connects WhatsApp, Twitter, Email, and Web Chat into a unified inbox with native bot integrations and AI assistance.
+- **Best For**: Support teams seeking self-hosted customer messaging with seamless human handoff from automated chatbots.
 
+### 6. [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) [![GitHub Stars](https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat?style=social&color=white)](https://github.com/chatchat-space/Langchain-Chatchat/stargazers) 📚
+- **Category**: Local Knowledge Base & RAG Conversational Assistant
+- **Tech Stack**: Python, LangChain, Milvus/FAISS
+- **Overview**: Enterprise-oriented offline RAG chatbot solution supporting document ingestion (PDF, Word, Markdown) and multi-model local inferences.
+- **Best For**: Internal enterprise document question-answering with complete data residency.
 
-- **Owly**
+### 7. [Haystack](https://github.com/deepset-ai/haystack) [![GitHub Stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers) 🌾
+- **Category**: End-to-End LLM Orchestration & Search Pipeline Framework
+- **Tech Stack**: Python
+- **Overview**: Production-ready Python framework for building custom RAG, neural search, and conversational AI agents with flexible modular components.
+- **Best For**: Engineering teams building high-throughput production search and conversational retrieval architectures.
 
-  **Open-source AI-powered customer support agent** (open source) — **the most complete self-hosted multi-channel support chatbot** found in this research . **Features**: **Multi-channel**—WhatsApp (via QR or Business API), email (IMAP/SMTP with HTML templates), and phone (Twilio + Whisper STT + ElevenLabs TTS); **AI-powered conversations**—OpenAI GPT with function calling, RAG knowledge base awareness, automatic ticket creation, customer history context; **admin dashboard**—real-time conversation management, unified inbox, customer CRM, ticket system, analytics, team management; **automation**—auto-routing rules, auto-tagging, SLA rules, business hours, canned responses, CSAT surveys; **professional**—dark mode, audit log, API keys, webhooks, Docker Compose deployment . **Tech stack**: Next.js 14, TypeScript, PostgreSQL, Prisma . **Deploy**: Self-hosted (Docker Compose; Node.js 20+, PostgreSQL 16+) . **Trade-off**: **Newer project**—limited public validation; OpenAI dependency for AI (extensible to Claude/Ollama); requires infrastructure setup. **Best for**: teams wanting a self-hosted support agent with WhatsApp, email, and phone channels plus admin dashboard—especially those wanting to own their customer conversation data .
+### 8. [Rasa](https://github.com/RasaHQ/rasa) [![GitHub Stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers) 🧠
+- **Category**: Conversational AI Engine for Enterprise Dialogue Management
+- **Tech Stack**: Python, TensorFlow/PyTorch
+- **Overview**: Industry-standard open-source conversational AI framework with CALM (Conversational AI with Language Models), intent classification, dialogue policies, and compliance readiness.
+- **Best For**: Large-scale enterprise systems requiring deterministic guardrails, structured conversational flows, and hybrid NLU/LLM setups.
 
+### 9. [Pipecat](https://github.com/pipecat-ai/pipecat) [![GitHub Stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social&color=white)](https://github.com/pipecat-ai/pipecat/stargazers) 🎙️
+- **Category**: Real-Time Voice & Multimodal Conversational Agent Framework
+- **Tech Stack**: Python, WebRTC
+- **Overview**: The most complete open-source framework for building ultra-low-latency real-time voice and multimodal AI agents. Pluggable with 20+ STT engines, 25+ LLMs, and 30+ TTS voices.
+- **Best For**: Real-time voice assistants, phone agents, and multimodal conversational interfaces requiring WebRTC speed.
 
+### 10. [Botpress](https://github.com/botpress/botpress) [![GitHub Stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers) 🛠️
+- **Category**: Developer Chatbot Engine & Visual Flow Studio
+- **Tech Stack**: TypeScript, Node.js
+- **Overview**: Developer-centric conversational platform featuring visual dialogue flows, NLU pipelines, and pre-built channel connectors for enterprise bots.
+- **Best For**: Developers needing granular control over dialogue states, custom actions, and channel integrations.
 
-- **Apache Burr (Incubating)**
+### 11. [Apache Burr](https://github.com/dagworks-inc/burr) [![GitHub Stars](https://img.shields.io/github/stars/dagworks-inc/burr?style=social&color=white)](https://github.com/dagworks-inc/burr/stargazers) ⚙️
+- **Category**: State-Machine Framework for Stateful LLM Applications
+- **Tech Stack**: Python
+- **Overview**: Expresses chatbot interactions and multi-step agent decisions as rigorous state machines, complete with built-in real-time tracing, telemetry UI, and state persistence.
+- **Best For**: Complex conversational systems requiring full auditability, rollback, and deterministic multi-turn state tracking.
 
-  **State-machine framework for building decision-making chatbots** (Apache 2.0) — **the most rigorous open-source framework for stateful chatbot logic**, with a built-in telemetry UI . **Features**: **Express applications as state machines**—simple Python functions define actions and state transitions; **UI for tracing and debugging**—real-time visibility into execution; **pluggable persisters** for memory and state; **integrates with any LLM or framework**—Burr does not care how you query the LLM; **examples** include simple chatbots, stateful RAG chatbots, and interactive assistants . **Tech stack**: Python 3.10+. **Deploy**: `pip install "apache-burr[start]"`; `burr` for UI . **Trade-off**: **Framework, not a product**—no pre-built channels, admin UI, or RAG pipeline; you build the application logic. **Best for**: developers wanting structured control over chatbot state and decision logic—especially those building complex, multi-step conversational flows with debugging needs .
-
-
-
-- **GEN-AI-CHATBOT (RAG Agent)**
-
-  **RAG chatbot with LangChain and Hugging Face** (open source) — **the most accessible open-source RAG chatbot reference implementation** . **Features**: **Context-aware retrieval** with FAISS; **language generation** using Hugging Face models (flan-t5); **custom document ingestion** (PDF, CSV, TXT); **modular design** with LangChain agents and tools; **web interface** via Streamlit or React + Node.js; **chat history and threading** support . **Tech stack**: Python, LangChain, Hugging Face Transformers, FAISS, Streamlit . **Deploy**: Self-hosted (Python environment; Streamlit for UI) . **Trade-off**: **Educational/reference project**—not production-hardened; no admin dashboard, multi-channel support, or enterprise features; model quality depends on Hugging Face model choice. **Best for**: developers learning RAG chatbot architecture or prototyping document Q&A—not for customer-facing deployment without significant extension .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Fulcra** — Multi-agent collaboration framework (launched June 2026). Enables triage, response, and escalation agents to share context securely for support systems . **Note**: **Newer framework**—limited production validation; requires custom integration. **Best for**: teams exploring multi-agent support architectures with role separation.
-
-- **Ollama / LM Studio** — Local LLM runners (open source). Foundation for privacy-respecting support agents; download models and deploy in under a minute . **Note**: **Model runners, not chatbot platforms**—pair with a framework like Pipecat or Owly. **Best for**: teams wanting local LLM inference for privacy-sensitive chatbot workloads.
-
-
-
-**Frameworks for building custom systems**: Combine **Pipecat** for voice and multimodal pipelines with **Owly** for multi-channel support and **Apache Burr** for stateful conversation logic—creating a layered open-source chatbot stack. **None of these match Intercom Fin's resolution learning loop or Ada's enterprise integrations**, but for core chatbot functionality, the options are production-capable.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, license (for open-source), and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Chatbot platforms handling customer conversations must comply with data protection regulations (GDPR, CCPA, etc.) and implement appropriate access controls.
-
-- **The "voice/multimodal framework" vs. "multi-channel support agent" vs. "state-machine framework" vs. "RAG reference" distinction is critical.** **Pipecat** is a **voice/multimodal framework**—it orchestrates STT, LLM, and TTS for real-time agents . **Owly** is a **multi-channel support agent**—it provides WhatsApp, email, phone, and admin dashboard out of the box . **Apache Burr** is a **state-machine framework**—it structures decision logic with tracing, not channels or UI . **GEN-AI-CHATBOT** is a **RAG reference**—it demonstrates document Q&A, not production support . **Choose based on whether you need voice pipelines, ready-made support channels, structured logic, or a learning reference.**
-
-- **Pipecat is the most complete open-source framework for voice and multimodal agents**—with 20+ STT providers, 25+ LLMs, and 30+ TTS services . **The trade-off**: voice-first focus; text-only requires adaptation.
-
-- **Owly is the most complete self-hosted support agent**—WhatsApp, email, phone, admin dashboard, and Docker deployment . **The trade-off**: newer project with limited validation; OpenAI dependency.
-
-- **Intercom Fin's $0.99 per outcome** is the most transparent AI pricing in the category—but seat costs stack on top . **Model your resolution volume before committing.**
-
-- **Ada has no free trial and starts at $33,000/year** on AWS Marketplace; implementation adds $15K–$100K+ . **Do not evaluate without enterprise budget approval.**
-
-- **Forethought offers a Proof of Value instead of a free trial**—you work with your own data to demonstrate effectiveness before committing . **Request a POV with realistic ticket volume.**
-
-- **Freshworks Freddy AI Agent is $49 per 100 sessions** on top of seat costs—metered separately from agent seats . **Model session volume before choosing a tier.**
-
-- Self-hosted open-source solutions require proper infrastructure (Python for Pipecat and Burr, Next.js/PostgreSQL for Owly), security hardening, and ongoing maintenance. **Chatbot data includes customer conversations and PII**—ensure your deployment meets your organization's privacy and compliance requirements before handling live customer interactions.
-
-
+### 12. [Owly](https://github.com/Hesper-Labs/owly) [![GitHub Stars](https://img.shields.io/github/stars/Hesper-Labs/owly?style=social&color=white)](https://github.com/Hesper-Labs/owly/stargazers) 🦉
+- **Category**: Self-Hosted Multichannel AI Customer Support Agent
+- **Tech Stack**: Next.js 14, TypeScript, PostgreSQL, Prisma, Docker
+- **Overview**: Autonomous customer service agent supporting WhatsApp (QR login), Email (IMAP/SMTP), and Phone (Twilio + Whisper + ElevenLabs) with a unified admin inbox and ticketing dashboard.
+- **Best For**: SMBs and privacy-conscious organizations seeking a self-hosted support agent without per-resolution SaaS markups.
 
 ---
 
+## 📈 Star History
 
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-AI-Conversational-Chatbot&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-AI-Conversational-Chatbot&type=date&legend=top-left)
 
-**Made for support teams, developers, and organizations building transparent conversational AI solutions.**
+---
 
-Let's make AI Conversational Chatbots more open, data-driven, and resolution-friendly.
+## 🤝 How to Contribute
+
+Contributions are warmly welcome! Help make this the most accurate and transparent conversational AI directory:
+
+1. 🍴 **Fork** this repository.
+2. 📝 **Add or update** entries in `README.md` (keep descriptions factual, include starting pricing, free tier terms, or open-source star metrics).
+3. 🔍 **Verify** links and ensure proper markdown table alignment.
+4. 🚀 **Submit a Pull Request** with a concise summary of changes.
+
+---
+
+## 💖 Support & Sponsorship
+
+If this curated guide saved your team research time, helped you evaluate chatbot architectures, or sparked new ideas, please consider supporting the project:
+
+- ⭐ **Star this repository** to boost discovery and help fellow builders!
+- 🍴 **Fork & Share** with your engineering and product networks.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚖️ Disclaimer & Guidance
+
+- **Community Curated**: This list is independently curated for research and evaluation purposes; it does not constitute commercial endorsement.
+- **Data Compliance & Security**: Chatbot solutions process customer conversations and potential PII. Ensure self-hosted setups and third-party SaaS vendors comply with applicable data protection legislation (GDPR, CCPA, HIPAA, SOC 2).
+- **Architecture Matching**:
+  - Need real-time voice? Consider **Pipecat**.
+  - Need visual workflow orchestration? Look at **Dify**, **Langflow**, or **Flowise**.
+  - Need a turnkey multichannel support agent? Evaluate **Owly** or **Chatwoot**.
+  - Need verifiable state management? Choose **Apache Burr**.
+
+---
+
+<p align="center">
+  <b>Built for conversational AI developers, product engineers, and customer experience innovators worldwide.</b>
+</p>
